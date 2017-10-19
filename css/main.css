@@ -1,0 +1,25 @@
+.icon {
+  color:orange;
+  margin-right: 15px;
+}
+
+.ojos {
+  width: 256px; height: 256px;
+  background: url('../assets/images/css_sprites.png') -10px -10px;
+  display: inline-block;
+  margin: 50px;
+}
+
+.milk {
+  width: 128px; height: 128px;
+  background: url('../assets/images/css_sprites.png') -10px -286px;
+  display: inline-block;
+  margin: 50px;
+}
+
+.food {
+  width: 128px; height: 128px;
+  background: url('../assets/images/css_sprites.png') -286px -10px;
+  display: inline-block;
+  margin: 50px;
+}
